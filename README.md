@@ -1,1 +1,1 @@
-# MNIST_digit_classification
+# MNIST_digit_classification Using RNN and Keras/Collab.
